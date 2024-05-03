@@ -48,7 +48,7 @@ O ponto de entrada do programa, onde o usuário interage com o sistema através 
 3. Siga as instruções do menu para cadastrar livros, obter recomendações ou calcular distâncias.
 4. O programa pode ser executado pelo arquivo .jar na localizado na pasta OUT/Artifacts/arquivo.jar 
 (CMD >> java -jar nomedoarquivo.jar)
-* Versão JDK: 21.0.2
+* Versão JDK: 22.0.1
 ***
 
 ### Observações
